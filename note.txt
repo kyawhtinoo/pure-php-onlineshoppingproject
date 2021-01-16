@@ -1,0 +1,6 @@
+cpanel
+--------
+subdomain -> onlineshopping.kyawhtinoo.me
+database  -> kyawhtinoo_shopules
+username  -> kyawhtinoo_shopulesuser
+password  -> user12345
